@@ -1,0 +1,41 @@
+*,
+*:before,
+*:after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  max-width: 100%;
+}
+*{
+    border:2px solid gray;
+}
+html{
+    font-size:62.5%;
+}
+body{
+    font-size:1.6rem;
+}
+.wrapper{
+    text-align:center;
+    font-size:2rem;
+    width:
+}
+.plan, .learn, .involved{
+    display:inline-block;
+    margin:3%
+}
+.plan{
+    background-color:#FF764E;
+    widows: 30%;
+    height:40px;
+    border:1px solid
+}
+.header-img{
+    width:40%;
+}
+.first, .header-img{
+    display:inline-block;
+}
+.first{
+    width:59%
+}
